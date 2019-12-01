@@ -4,7 +4,7 @@ Solutions to the Advent of code 2019 in F#.
 
 They are presented as Jupyter notebooks, which can be run online via Binder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/turbohz%2Fadvent-of-code-2019/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gl/turbohz%2Fadvent-of-code-2019/master?urlpath=lab)
 
 ## Notes 
 
