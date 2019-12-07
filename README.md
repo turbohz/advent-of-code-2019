@@ -1,6 +1,6 @@
 # Advent of code 2019
 
-Solutions to the Advent of code 2019 in F#.
+Solutions to the [Advent of code 2019](https://adventofcode.com/2019) in F#.
 
 They are presented as Jupyter notebooks, which can be run online via Binder.
 
